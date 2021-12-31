@@ -1,16 +1,21 @@
-### Hi there 👋
+![Fehér](https://user-images.githubusercontent.com/62424752/147815813-2c60cb80-d6f8-453a-a8ca-fbded602e232.png)
 
-<!--
-**feherszabolcs/feherszabolcs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I’m currently learning and improving my C# skills
+
+ 🔭My main project is the IP-Translator and Calculator Program
+
+<a href= "https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=feherszabolcs&theme=vision-friendly-dark&show_icons=true" />
+</a>
+<a href= "https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=feherszabolcs&langs_count=4&theme=vision-friendly-dark" />
+</a>
+
+
+
+
+
+
