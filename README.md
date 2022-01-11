@@ -12,7 +12,7 @@
 
 🌱 I’m currently learning and improving my C# skills
 
- 🔭My main project is the IP-Translator and Calculator Program
+ 🔭Current project is the IP-Translator and Calculator Program
 
 <a href= "https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=feherszabolcs&theme=vision-friendly-dark&show_icons=true" />
