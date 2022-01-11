@@ -4,7 +4,7 @@
 ### Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <p align="left">
-📬 Contanct: 
+📬 Contact: 
 <a href="https://fb.com/fhr.szabolcs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fhr.szabolcs" height="30" width="40" /></a>
 <a href="https://instagram.com/sz1nes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sz1nes" height="30" width="40" /></a>
 </p>
