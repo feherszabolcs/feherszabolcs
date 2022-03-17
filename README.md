@@ -4,15 +4,16 @@
 # Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <p align="left">
-📬 Contact: 
+📬 Contact me on: 
 <a href="https://fb.com/fhr.szabolcs" target="blank"><img align="center" src="/src/facebook.svg" alt="fhr.szabolcs" height="30" width="40" /></a>
 <a href="https://instagram.com/sz1nes" target="blank"><img align="center" src="/src/instagram.svg" alt="sz1nes" height="30" width="40" /></a>
 </p>
 
 
-<p>🌱 I’m currently learning and improving my C# skills</p>
+<p>🌱 C# programmer</p>
+<p>🎨 Website developer</p>
 
-🔭Current project is the IP-Translator and Calculator Program
+🔭 Projects: Subnet calculator, Duty diary(in progress...)
 
 <a href= "https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=feherszabolcs&theme=vision-friendly-dark&show_icons=true" />
@@ -21,6 +22,8 @@
 <a href= "https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=feherszabolcs&langs_count=4&theme=vision-friendly-dark" />
 </a>
+<br>
+<br>
 <br>
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
