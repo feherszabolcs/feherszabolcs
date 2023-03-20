@@ -3,17 +3,19 @@
 
 # Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<p align="left">
+<h2 align="left">
 📬 Contact me on: 
 <a href="https://fb.com/fhr.szabolcs" target="blank"><img align="center" src="/src/facebook.svg" alt="fhr.szabolcs" height="30" width="40" /></a>
 <a href="https://instagram.com/sz1nes" target="blank"><img align="center" src="/src/instagram.svg" alt="sz1nes" height="30" width="40" /></a>
-</p>
+</h2>
 
 
-<p>🌱 C# programmer</p>
-<p>🎨 Website developer</p>
-
-🔭 Projects: Subnet calculator, Duty diary(in progress...)
+<h3>🌱 Junior C# programmer</h3>
+<h3>🎨 Website developer</h3>
+ 
+ <hr>
+ 
+🔭 Check my projects in the repositories!
 
 <a href= "https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=feherszabolcs&theme=vision-friendly-dark&show_icons=true" />
@@ -30,9 +32,13 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Intellij](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![WIN](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
+![PS](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
+![MYSQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
 
 
 
