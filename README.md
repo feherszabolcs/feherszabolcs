@@ -10,12 +10,11 @@
 </h2>
 
 
-<h3>🌱 Junior C# programmer</h3>
-<h3>🎨 Website developer</h3>
+<h3>🌱 Web & software developer</h3>
  
  <hr>
  
-🔭 Check my projects in the repositories!
+🔭 Check my previous projects in the repositories tab!
 
 <a href= "https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=feherszabolcs&theme=vision-friendly-dark&show_icons=true" />
@@ -38,6 +37,8 @@
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![PS](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
 ![MYSQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E).
+![VueJS](	https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D).
 
 
 
